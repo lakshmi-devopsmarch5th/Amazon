@@ -1,1 +1,2 @@
+testing rebase command..
 this is text file for testing rebase and merge commands..
